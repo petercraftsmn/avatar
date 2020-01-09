@@ -1,5 +1,5 @@
 {
-  "name": "avtar",
+  "name": "express-avtar",
   "version": "1.0.0",
   "description": "Avtar manager package for node applications",
   "main": "index.js",
