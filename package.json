@@ -1,0 +1,26 @@
+{
+  "name": "avtar",
+  "version": "1.0.0",
+  "description": "Avtar manager package for node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercraftsmn/avtar.git"
+  },
+  "keywords": [
+    "Avtar",
+    "Avatar",
+    "Image",
+    "Manage",
+    "Upload"
+  ],
+  "author": "Peter Craftsmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petercraftsmn/avtar/issues"
+  },
+  "homepage": "https://github.com/petercraftsmn/avtar#readme"
+}
